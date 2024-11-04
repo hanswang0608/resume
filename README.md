@@ -2,4 +2,4 @@
 
 Link to my [resume](Resume.pdf).
 
-Last updated Mar 6, 2024
+Last updated Nov 4, 2024
