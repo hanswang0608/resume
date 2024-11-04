@@ -1,5 +1,5 @@
 # Resume
 
-Link to my [resume](Hans%20Wang%20Resume.pdf).
+Link to my [resume](Resume.pdf).
 
 Last updated Mar 6, 2024
